@@ -1,1 +1,13 @@
-Replace this with a list of your favorite things.
+- Hobbies
+  - Hiking & Backpacking
+  - Photography
+  - Learning Japanese
+  - Reading
+  - Calligraphy
+
+- Favorite Foods
+  - Vegetable Tempura
+  - Curry (any kind)
+  - Burritos
+  - Sushi
+  - French Fries
