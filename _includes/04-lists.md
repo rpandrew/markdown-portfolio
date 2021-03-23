@@ -1,0 +1,13 @@
+- Hobbies
+  - Hiking & Backpacking
+  - Photography
+  - Learning Japanese
+  - Reading
+  - Calligraphy
+
+- Favorite Foods
+  - Vegetable Tempura
+  - Curry (any kind)
+  - Burritos
+  - Sushi
+  - French Fries
