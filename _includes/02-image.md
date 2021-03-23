@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Cartoon squid](https://static.thenounproject.com/png/1686328-200.png)
